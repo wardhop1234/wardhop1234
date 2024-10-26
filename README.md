@@ -1,6 +1,6 @@
 # Overview  
 
-This account belongs to Joseph Yue and contains mirrors of certain private repositories he created.  
+This account belongs to Joseph Yue and contains various projects he worked on. <br>
 The account being referenced can be found [here](https://github.com/awesomebob35).
 
 <!---
